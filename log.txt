@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-30T22:43:54.800490700Z</date>
+  <millis>1688165034800</millis>
+  <nanos>490700</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>controller.Controller</class>
+  <method>buttonClick</method>
+  <thread>1</thread>
+  <message>Введены некорректные данные при вводе комлексного числа!</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-30T22:46:29.901723900Z</date>
+  <millis>1688165189901</millis>
+  <nanos>723900</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>controller.Controller</class>
+  <method>buttonClick</method>
+  <thread>1</thread>
+  <message>{Re: 5.0, Im: 2.0} + {Re: 7.0, Im: 6.0} = {Re: 12.0, Im: 8.0}</message>
+</record>
+</log>
